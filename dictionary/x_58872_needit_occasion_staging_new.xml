@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="fe391d70c3d85210e88ede1d050131a2" extends="sys_import_set_row" label="occasion_staging_new" max_length="40" name="x_58872_needit_occasion_staging_new" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Industry_aggregation_NZSIOC" label="Industry_aggregation_NZSIOC" max_length="40" name="u_industry_aggregation_nzsioc" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Industry_code_ANZSIC06" label="Industry_code_ANZSIC06" max_length="112" name="u_industry_code_anzsic06" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Industry_code_NZSIOC" label="Industry_code_NZSIOC" max_length="40" name="u_industry_code_nzsioc" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Industry_name_NZSIOC" label="Industry_name_NZSIOC" max_length="72" name="u_industry_name_nzsioc" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Units" label="Units" max_length="40" name="u_units" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Value" label="Value" max_length="40" name="u_value" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Variable_category" label="Variable_category" max_length="40" name="u_variable_category" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Variable_code" label="Variable_code" max_length="40" name="u_variable_code" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Variable_name" label="Variable_name" max_length="53" name="u_variable_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Year" label="Year" max_length="40" name="u_year" type="string"/>
+    </element>
+</database>
